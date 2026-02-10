@@ -43,7 +43,7 @@ const FAQ: React.FC = () => {
                                 <AccordionItem value="item-3">
                                     <AccordionTrigger>3. Do you work with first-time buyers?</AccordionTrigger>
                                     <AccordionContent>
-                                        Yes. We work with both first-time buyers and experienced investors. Our process adapts to each client’s level of experience while maintaining the same disciplined, thoughtful approach.
+                                        Yes. We work with both first-time buyers and experienced investors. Our process adapts to each client&apos;s level of experience while maintaining the same disciplined, thoughtful approach.
                                     </AccordionContent>
                                 </AccordionItem>
                                 <AccordionItem value="item-4">
@@ -53,7 +53,7 @@ const FAQ: React.FC = () => {
                                     </AccordionContent>
                                 </AccordionItem>
                                 <AccordionItem value="item-4">
-                                    <AccordionTrigger>5. How do you assess a property’s long-term suitability?</AccordionTrigger>
+                                    <AccordionTrigger>5. How do you assess a property&apos;s long-term suitability?</AccordionTrigger>
                                     <AccordionContent>
                                         We evaluate livability, liquidity, location fundamentals, and future optionality not just surface-level appeal.
                                     </AccordionContent>

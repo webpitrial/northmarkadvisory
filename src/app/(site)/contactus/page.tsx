@@ -25,10 +25,10 @@ export default function ContactUs() {
         </div>
         <div className='text-center'>
           <h3 className='text-4xl sm:text-52 font-medium tracking-tighter text-black dark:text-white mb-3 leading-10 sm:leading-14'>
-            Clarity before commitment. Let’s connect.
+            Clarity before commitment. Let&apos;s connect.
           </h3>
           <p className='text-xm font-normal tracking-tight text-black/50 dark:text-white/50 leading-6'>
-            Whether you’re evaluating a purchase, sale, or investment opportunity, we approach every conversation <br></br>with discretion, context, and long-term perspective.
+            Whether you&apos;re evaluating a purchase, sale, or investment opportunity, we approach every conversation <br></br>with discretion, context, and long-term perspective.
           </p>
         </div>
       </div>
