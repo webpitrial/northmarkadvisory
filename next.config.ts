@@ -1,10 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
+  // Remove output: 'export' completely
+  // Remove images.unoptimized completely
   eslint: {
     ignoreDuringBuilds: true,
   },
